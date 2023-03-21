@@ -24,19 +24,19 @@ body {
 /* submit button */
 
 form .button {
-    height: 60px;
+    height: 60rem;
     margin-bottom: 10rem 0;
 }
 
 form .button input {
-    height: 50px;
-    width: 100px;
+    height: 50rem;
+    width: 100rem;
     outline: none;
     color: #fff;
     border: none;
-    font-size: 20px;
+    font-size: 20rem;
     font-weight: 500;
-    border-radius: 20px;
+    border-radius: 20rem;
     background: #005594;
     transition: all 0.3s ease;
 }
@@ -51,18 +51,18 @@ form .button input:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 80px 0 1px 0;
+    margin: 7rem 0 4rem 0;
 }
 
 .trigger {
     text-align: center;
-    padding: 7px 13px;
+    padding: 0.8rem 2rem;
     background: #e26d3f;
     color: #fff;
-    font-size: 15px;
+    font-size: 1.5rem;
     outline: none;
     border: none;
-    border-radius: 5px;
+    border-radius: 0.8rem;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -97,7 +97,7 @@ form .button input:hover {
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 2.3rem;
     color: #000000;
     margin: 5rem;
     position: absolute;
@@ -121,9 +121,9 @@ form .button input:hover {
     outline: none;
     color: #fff;
     border: none;
-    font-size: 28px;
+    font-size: 1.5rem;
     font-weight: 500;
-    border-radius: 20px;
+    border-radius: 0.8rem;
     background: #FF9022;
     transition: all 0.3s ease;
 
@@ -135,7 +135,7 @@ form .button input:hover {
 } 
 
 .button2 {
-height: 60px;
+height: 4rem;
 margin-top: -3.8rem;
 margin-left: 20rem;
 }
@@ -145,7 +145,7 @@ margin-left: 20rem;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 1.8rem;
     color: #000000;
     margin: 11rem;
     position: absolute;
@@ -159,9 +159,9 @@ margin-left: 20rem;
     outline: none;
     color: #fff;
     border: none;
-    font-size: 28px;
+    font-size: 1.5rem;
     font-weight: 500;
-    border-radius: 20px;
+    border-radius: 0.8rem;
     background: #005594;
     transition: all 0.3s ease;
 
@@ -173,7 +173,7 @@ margin-left: 20rem;
 } 
 
 .button3 {
-height: 60px;
+height: 4rem;
 margin-top: 12rem;
 margin-right: 20rem;
 }
