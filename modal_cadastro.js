@@ -7,7 +7,7 @@ function toggleModal() {
 }
 
 function windowOnClick(event) {
-    if (event.target === modal) {
+    if (event.target === modal_cadastro) {
         toggleModal();
     }
 }
